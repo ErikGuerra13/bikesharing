@@ -5,17 +5,17 @@
 
 # Results
 - Trips by Weekday for each hour
-- 
+
 ![](Resources/tripsbyweekday.PNG)
 - Peak times for trips during the weekdays are from 5:00pm to 7:00pm and are at a all time high on Thursdays. Thursday's at 6:00pm have the total amount of trips with 44,905. 
 
 - Trips by Gender
-- 
+
 ![](Resources/tripsbygender.PNG)
 - Males have make up a larger portion of riders with a total of 30,749. 
 
 - User trips by Gender
-- 
+
 ![](Resources/usertripsbygender.PNG)
 - As you can see above this visualization shows that a mojority of the riders are subscribers and also males. 
 
